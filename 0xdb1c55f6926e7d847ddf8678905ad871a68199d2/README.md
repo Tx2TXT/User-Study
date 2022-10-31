@@ -1,4 +1,4 @@
-![](0xdb.pdf)
+![](0xdb.png)
 ## Vulnerable logic
 The attacker hides the first transfer by syntax to 
 mislead end user to believe that 
