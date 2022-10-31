@@ -1,0 +1,1 @@
+ low level token purchase functionTransfer a Asset owned by another address , for which the calling address has previously been granted transfer approval by the owner .

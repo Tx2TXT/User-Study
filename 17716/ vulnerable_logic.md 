@@ -1,0 +1,3 @@
+Reentrancy in JustPriceProtocol.sellTokens(uint256) (17716.sol#5):
+	External calls:
+	- updateStage()

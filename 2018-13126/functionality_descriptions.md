@@ -1,0 +1,10 @@
+Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+"The function transfers a user input amount from a user input address to another
+user input address."
+
+Do you think this is a secure and fair service that you will use?
