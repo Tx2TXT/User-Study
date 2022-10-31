@@ -1,0 +1,7 @@
+The attacker hides the first transfer by syntax to
+mislead end user to believe that
+the contract is used to withdraw balance(second transfer).
+
+The first transfer is in line 6, which is hidden by using much space.
+Cautious users can easily ignore this, and the contract transfers
+the total balance of the contract to a **third-party** address.

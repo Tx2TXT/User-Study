@@ -1,0 +1,6 @@
+The attacker misleads end user to believe that 
+the contract is used to withdraw balance.
+
+The hidden logic is that the contract transfers the total balance of the contract 
+to a third-party address.
+
