@@ -1,4 +1,5 @@
 ![](2018-13132.png)
+
 ## Vulnerable logic
 The attacker hides the changing transferred address to a 
 **constant third-party address** in line 4. There is too much space

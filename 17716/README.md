@@ -1,3 +1,4 @@
+![](17716.png)
 ## Vulnerable logic
 There is a reentrancy problem in line 5. Before transfer in line 15,
 the contract update state variable.
