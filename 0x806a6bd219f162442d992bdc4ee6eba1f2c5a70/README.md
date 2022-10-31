@@ -1,4 +1,4 @@
-![](806.pdf)
+![](806.png)
 ## Vulnerable logic
 The contract is vulnerable. The state variable `withdrawalDeployed` 
 is written before transfer function, and there could be a reentrancy problem.
