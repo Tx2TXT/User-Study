@@ -1,0 +1,238 @@
+Contract,Question,Choice A,Choice B,Choice D
+0x806a6bd219f162442d992bdc4ee6eba1f2c5a70,"Here is one of the functionalities one can expect from an online financial service:
+
+The service can specify a dividend and distribute it to each participant based on her contribution. 
+
+A specific implementation of this functionality can be described as this:
+
+**""The function calculates amount0 using a contract owner input and 
+amount1, and then transfers this amount to the user.""**
+
+Do you think this is a secure and fair service that you will use?
+",Yes,No,Not sure
+2018-13132,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+**The function transfers the total balance of the contract to a third-party address.**
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+1831,"Here is one of the functionalities you can expect from an online banking service:
+
+A bank service user can transfer certain amount of funds from one account to another.
+
+A specific implementation of a functionality can be described as this:
+
+""**The function transfers a user input amount from a user input address to another
+user input address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+18660,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user's property to a contract owner's address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+17716,"**Register a vesting schedule to transfer SENC from a group SENC wallet to an individual wallet .**
+
+## Survey questions
+Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user input amount0 from the user to the contract, 
+and then calculates an amount1 using this user input amount0 and a state variable, 
+and then transfers the amount1 to user.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+20788,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user's property to a contract owner's address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+22449,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user's property to a contract owner's address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+0x3d8a10ce3228cb428cb56baa058d4432464ea25d,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address,** 
+
+**and then transfers the remaining balance to the user.""**
+
+
+
+Do you think this is a secure and fair game that you will play?
+",Yes,No,Not sure
+0xf70d589d76eebdd7c12cc5eec99f8f6fa4233b9e,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address, 
+and then transfers the remaining balance to the user.**""
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+2018-12070,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user input amount from a user input address to another
+user input address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+2018-13126,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user input amount from a user input address to another
+user input address.**""
+
+Do you think this is a secure and fair service that you will use?
+",Yes,No,Not sure
+2018-11335,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user input amount from a user input address to another
+user input address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
+0x78c2a1e91b52bca4130b6ed9edd9fbcfd4671c37,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address,** 
+
+**and then transfers the remaining balance to the user.""**
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+0x7a4349a749e59a5736efb7826ee3496a2dfd5489,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address,** 
+
+**and then transfers the remaining balance to the user.""**
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+0xd2018bfaa266a9ec0a1a84b061640faa009def76,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address,** 
+
+**and then transfers the remaining balance to the user.""**
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+0xdb1c55f6926e7d847ddf8678905ad871a68199d2,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address, 
+and then transfers the remaining balance to the user.**""
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+0xe4eabdca81e31d9acbc4af76b30f532b6ed7f3bf,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address,** 
+
+**and then transfers the remaining balance to the user.""**
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+4,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address, 
+and then transfers the remaining balance to the user**""
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+2018-17716,"Here is what you can expect from an online gambling game:
+
+You must pay to place a bet in this game. 
+If you are the winner, the contract must transfer the jackpot (all of its accumulated balance) to your account.
+
+A specific implementation of a gambling game can be described as this:
+
+""**The function transfers the total balance of the contract to a third-party address, 
+and then transfers the remaining balance to the user**""
+
+
+
+Do you think this is a secure and fair game that you will play?",Yes,No,Not sure
+0x3d8a10ce3228cb428cb56baa058d4432464ea25d,"Here is what you can expect from an internal transfer service:
+
+You can see internal transfer a specified amount from one designated account to another specific account.
+
+A specific implementation of this functionality can be described as this:
+
+""**The function transfers a user input amount from a user input address to another
+user input address.**""
+
+Do you think this is a secure and fair service that you will use?",Yes,No,Not sure
